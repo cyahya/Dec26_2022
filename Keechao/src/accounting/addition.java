@@ -2,7 +2,13 @@ package accounting;
 
 public class addition {
 //Grandizer--
-	// function or method (main function/method by defautl)
+	
+	
+	
+	
+	
+	
+	
 	public static void main(String[] args) {
 		
 		String x = "Hi";
