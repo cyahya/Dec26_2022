@@ -1,0 +1,41 @@
+<SuitA>
+	<LoginTest>
+		<Data>
+			<Runmode>Y</Runmode>
+			<Browser>mozilla</Browser>
+			<Username>user1</Username>
+			<OldPassword>passwd</OldPassword>
+			<NewPassword>newpasswd</NewPassword>
+			<ExResult>Fail</ExResult>
+		</Data>
+
+		<Data>
+			<Runmode>N</Runmode>
+			<Browser>firefox</Browser>
+			<Username>user2</Username>
+			<OldPassword>passwd01</OldPassword>
+			<NewPassword>newpasswd01</NewPassword>
+			<ExResult>Pass</ExResult>
+		</Data>
+	</LoginTest>
+
+	<ChangePassed>
+		<Data>
+		<Runmode>cpY</Runmode>
+		<Browser>cpmozilla</Browser>
+		<Username>cpuser1</Username>
+		<OldPassword>cppasswd</OldPassword>
+		<NewPassword>cpnewpasswd</NewPassword>
+		<ExResult>cpFail</ExResult>
+		</Data>
+
+		<Data>
+		<Runmode>cpN</Runmode>
+		<Browser>cpfirefox</Browser>
+		<Username>cpuser2</Username>
+		<OldPassword>cppasswd01</OldPassword>
+		<NewPassword>cpnewpasswd01</NewPassword>
+		<ExResult>cpPass</ExResult>
+		</Data>
+	</ChangePassed>
+</SuitA>

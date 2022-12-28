@@ -1,0 +1,100 @@
+1549823665374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hossa\\AppData\\Local\\Temp\\rust_mozprofile.3OrxmHOcjImK"
+1549823668180	Marionette	INFO	Listening on port 62564
+1549823668606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549823668646	Marionette	DEBUG	[6442450945] Frame script loaded
+1549823668647	Marionette	DEBUG	[6442450945] Frame script registered
+1549823668747	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1549823670374	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://assets.dice.com/techpro/js/vendor/jquery/jquery-1.10.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1549823676141	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.dice.com/
+1549823687362	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.dice.com/
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-31/html/container.html, line 1: NS_ERROR_FAILURE: 
+JavaScript warning: https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-592ed64664746d3860003d5d.js, line 73: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/scripts/satellite-592ed64664746d3860003d5d.js, line 73: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1549823694468	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.dice.com/
+1549823696749	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.dice.com/
+1549823696759	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.dice.com/
+1549823696941	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451030
+1549823697310	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1549823697310	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451013
+1549823697311	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+1549823697311	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451017
+1549823697311	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451019
+1549823697312	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451021
+1549823697312	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451023
+1549823697313	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451025
+1549823697313	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1549823697313	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1549823697313	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1549823697314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1549823697314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1549823697314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1549823697314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1549823697314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1549823697315	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1549823697315	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1549823697315	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451000
+1549823697316	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1549823697316	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1549823697316	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1549823697316	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1549823697316	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1549823697317	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1549823697317	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1549823697317	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1549823697317	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451007
+1549823697320	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451011
+1549823697323	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451028
+1549823699313	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.dice.com/jobs?q=Selenium+WebDriver&l=Chicago
+1549823703572	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.dice.com/jobs?q=Selenium+WebDriver&l=Chicago
+1549823706234	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.dice.com/jobs?q=Selenium+WebDriver&l=Chicago
+1549823706744	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.dice.com/jobs?q=Selenium+WebDriver&l=Chicago
+1549823706747	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.dice.com/jobs?q=Selenium+WebDriver&l=Chicago
+1549823707044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451053
+1549823707044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1549823707045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1549823707045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451036
+1549823707045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451038
+1549823707045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451040
+1549823707045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451042
+1549823707046	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451044
+1549823707046	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1549823707047	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451056
+1549823707047	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451058
+1549823707047	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451076
+1549823707048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451081
+1549823707048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451078
+1549823707048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451065
+1549823707048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1549823707048	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451071
+1549823707049	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451074
+1549823711816	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-2-limit-20-jobs
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-31/html/container.html, line 1: NS_ERROR_FAILURE: 
+1549823714173	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451128
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-31/html/container.html, line 1: NS_ERROR_FAILURE: 
+1549823714209	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451130
+1549823714780	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-2-limit-20-jobs
+1549823715103	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-2-limit-20-jobs
+1549823716381	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-2-limit-20-jobs
+1549823716395	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-2-limit-20-jobs
+1549823716437	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451124
+1549823716438	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451126
+1549823716640	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451105
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451113
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451115
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451084
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451086
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451088
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451092
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451094
+1549823716641	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451097
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451102
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451107
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451109
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451134
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451138
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451119
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451122
+1549823716642	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451136
+1549823718894	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-3-limit-20-jobs
+1549823721610	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.dice.com/jobs/q-Selenium_WebDriver-l-Chicago-radius-30-startPage-3-limit-20-jobs

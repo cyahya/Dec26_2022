@@ -1,0 +1,12 @@
+// session
+LoginTest, ChangePasswordTest
+
+// portofio
+CreatePortFolioTest, DeletePortFolioTest
+
+// Stock
+AddStockTest, DeleteStocktest, BuyOrSellStock, CheckTransactionHistoryTest
+
+
+
+Code Reusablity
