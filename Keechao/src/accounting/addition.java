@@ -1,7 +1,8 @@
 package accounting;
 
 public class addition {
-	//3rd commit testing
+	//3rd commit testing nn
+	
 	//This is for anotherBranch push testing
 //This is for git and github change testing
 	// function or method (main function/method by defautl)
