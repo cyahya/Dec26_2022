@@ -3,7 +3,7 @@ package logging;
 import org.apache.log4j.Logger;
 
 public class MyLogger_Java {
-
+//jjjj
 	/**
 	 * @param args
 	 */
