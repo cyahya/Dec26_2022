@@ -1,7 +1,7 @@
 package accounting;
 
 public class addition {
-//Grandizer--
+//Grandizer--rad
 	
 	
 	
