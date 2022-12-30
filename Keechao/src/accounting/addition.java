@@ -1,9 +1,7 @@
 package accounting;
 
 public class addition {
-	//This is for anotherBranch push testing
-//This is for git and github change testing
-	// function or method (main function/method by defautl)
+	
 	public static void main(String[] args) {
 		
 		String x = "Hi";
